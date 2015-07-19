@@ -3,8 +3,7 @@
 @fullName Module Unavailable
 @description
 
-This error occurs when you declare a dependency on a module that isn't defined anywhere or hasn't
-been loaded in the current browser context.
+This error occurs when you do something that is not fucking right. Were you expecting something useful ? Nah not today
 
 When you receive this error, check that the name of the module in question is correct and that the
 file in which this module is defined has been loaded (either via `<script>` tag, loader like
